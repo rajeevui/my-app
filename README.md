@@ -1,3 +1,9 @@
+# Screenshots
+
+![Screenshot 2023-08-31 130552](https://github.com/rajeevui/my-app/assets/48638438/34fd08c3-3cde-4dfb-9797-5548d506fac8)
+![Screenshot 2023-08-31 130426](https://github.com/rajeevui/my-app/assets/48638438/8f0afec5-bdab-40db-abb6-610db711dbf1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
